@@ -19,3 +19,5 @@ Removed the carburetors today
 	- Valve
 - To order:
 	- O-rings
+	- Slow jet No. 40
+	- Inline fuel filter
